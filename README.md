@@ -1,6 +1,6 @@
 # war_card_game
 
-<!-- War Card Game
+War Card Game
 War is a simple game of chance between two players. The deck is shuffled and split in
 half. Players will compare their top cards. Whoever has the highest card wins that round
 and collects both of the cards and puts them at the bottom of their stack. The players
@@ -16,4 +16,4 @@ determine the winner.
 1. Create a deck of 52 cards (13 cards of each suite)
 2. Shuffle the deck
 3. Distribute the cards between two players (26 - 26 cards to each players)
-4. Try to use oops method overloading to compare cards. -->
+4. Try to use oops method overloading to compare cards.
